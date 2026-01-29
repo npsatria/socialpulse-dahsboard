@@ -13,7 +13,7 @@ export default function Sidebar() {
   return (
     <aside className="w-64 h-screen bg-slate-900 border-r border-slate-800 p-6 flex flex-col sticky top-0">
       <div className="flex items-center gap-3 mb-10 px-2">
-        <div className="w-8 h-8 bg-blue-600 rounded-lg flex items-center justify-center font-bold text-white">S</div>
+        <div className="w-8 h-8 bg-[##1D3461] rounded-lg flex items-center justify-center font-bold text-white">S</div>
         <span className="text-xl font-bold text-white tracking-tight">SocialPulse</span>
       </div>
 
